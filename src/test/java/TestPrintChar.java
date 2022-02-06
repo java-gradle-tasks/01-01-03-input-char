@@ -36,6 +36,6 @@ public class TestPrintChar {
 
       boolean found=actual.contains(input);
 
-      Assertions.assertTrue(found,"Nem írta ki a képernyőre a bekért számot!");
+      Assertions.assertTrue(found,"Nem írta ki a képernyőre a karaktert!");
    }
 }
