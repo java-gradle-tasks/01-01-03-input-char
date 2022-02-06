@@ -6,7 +6,7 @@ import java.io.*;
 public class TestPrintChar {
 
    @Test
-   public void testPrintInteger() {
+   public void test() {
 
       String newLine="";
       if (System.getProperty("os.name").startsWith("Windows")) {
