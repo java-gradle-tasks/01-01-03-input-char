@@ -42,6 +42,6 @@
 
          boolean found=actual.contains(expected);
 
-         Assertions.assertTrue(found,"Hianyzik az input a kodbol!");
+         Assertions.assertTrue(found,"Hianyzik az input a kodbol vagy az input szoveget nem jól adta meg!");
       }
    }
