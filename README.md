@@ -4,5 +4,5 @@ Adja meg azt a programrészletet, amely egy karaktert kér be a következő kís
 Minta:
 ```
 Szeretne kilepni (k - kilepes):k
-k
+k<újsor>
 ```
